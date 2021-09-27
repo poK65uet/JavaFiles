@@ -1,0 +1,22 @@
+people	Người
+history	Lịch sử
+way	Đường
+art	Nghệ thuật
+world	Thế giới
+information	Thông tin
+map	Bản đồ
+two	Hai
+family	Gia đình
+government	Chính phủ
+health	Sức khỏe
+system	Hệ thống
+computer	Máy tính
+meat	Thịt
+year	Năm
+thanks	Lời cảm ơn
+music	Âm nhạc
+person	Người
+reading	Cách đọc
+method	Phương pháp
+data	Dữ liệu
+food	Thức ăn
